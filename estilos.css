@@ -1,0 +1,35 @@
+:root {
+	--color-dark:#1d1d1d;
+	--color-ligth:#FFFF;
+	--color-gold:#c7b8a5;
+}
+
+body {
+  font-family: 'Titillium Web', sans-serif;
+}
+
+.navbar-brand {
+  font-size: 20px;
+  color: #000;
+  font-weight: bold;
+}
+
+.lead-xl{
+	font-size: 1.75rem;
+
+}
+
+.nav-link{
+	margin-left:2rem;
+}
+
+#testimonial {
+  color:grey;
+  padding: 50px 0 30px 0;
+  text-align:center;
+  margin-top: 40px;
+}
+
+footer {
+  background: url(../img/fondo.jpg);
+}
